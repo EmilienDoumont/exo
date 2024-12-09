@@ -1,7 +1,7 @@
 {
     "name": "AquaRooms",
     "short_name": "AquaRooms",
-    "description": "Location de salles de réunion aux lacs",
+    "description": "Salles de bain",
     "start_url": "index.html",
     "display": "standalone",
     "display_override": ["fullscreen", "minimal-ui"],
